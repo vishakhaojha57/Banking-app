@@ -1,0 +1,5 @@
+1-->   in server.js create the node server
+2-->   in app.js import express use it in server.js 
+3-->   then connection to mongodb atlas
+4-->   create user models 
+5-->   signup and login for user (authentication Routes) 
